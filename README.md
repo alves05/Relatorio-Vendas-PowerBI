@@ -9,17 +9,17 @@ A empresa precisa criar estrategias para o ano de 2015 para a equipe de venda, p
 **Questões levantadas pela equipe de vendas**:
 
 1. Qual o total de Vendas?
-2. Total de unidades vendidas.
-3. Total dos descontos concedidos.
-4. Total das vendas, margem bruta.
-5. Total COGS.
-6. Vendas mensais.
-7. Vendas por segmento.
-8. Vendas por produto.
-9. Vendas por país.
-10. Lucro por produto.
-11. Lucro por segmento.
-12. Lucro por trimestre.
+2. Qual o total de unidades vendidas?
+3. Qual o total dos descontos concedidos?
+4. Qual o total das vendas brutas?
+5. Qual o total do COGS?
+6. Qual o total das Vendas mensais?
+7. Qual o total das vendas por segmento?
+8. Qual o total das vendas por produto?
+9. Qual o total das vendas por país?
+10. Qual foi o lucro por produto?
+11. Qual foi o lucro por segmento?
+12. Qual foi o lucro por trimestre?
 
 ---
 
